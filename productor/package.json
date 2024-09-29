@@ -1,0 +1,9 @@
+{
+    "name": "microservicio-kafka",
+    "version": "1.0.0",
+    "main": "app.js",
+    "dependencies": {
+      "kafkajs": "^1.15.0"
+    }
+}
+  
